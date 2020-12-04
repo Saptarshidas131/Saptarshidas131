@@ -3,5 +3,5 @@
 - 🔭 I’m currently working on learning programming languages and Web Development
 - 🌱 I’m currently learning programming and making projects
 - 👯 I’m looking to collaborate on open source and interesting projects
-- 💬 Ask me about C, C++, Java, Python or Web Development
+- 💬 Ask me about C, C++, Java, Python, Web Development, Android, Machine Learning and Data Science
 - ⚡ Fun fact: Coding is Fun.
