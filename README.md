@@ -1,9 +1,9 @@
 ### I am a Computer Science Engineer and a Web Developer.
 
-- 🔭 I’m currently learning programming languages and Web Development
-- 🌱 I’m currently working on some projects, which includes Java, Python, and Web Development
-- 👯 I’m looking to collaborate on open source and interesting projects
-- 💬 Ask me about C, C++, Java, Python, Web Development.
+-  I’m currently learning programming languages and Web Development
+-  I’m currently working on some projects, which includes Java, Python, and Web Development
+-  I’m looking to collaborate on open source and interesting projects
+-  Ask me about C, C++, Java, Python, Web Development.
 - ⚡ Fun fact: Coding is Next to a Super Power.
 <img src="https://github.com/Saptarshidas131/Saptarshidas131/blob/main/images/coding.png" height="50%" width="50%" alt="coding image">
 
@@ -21,6 +21,35 @@ fn main() {
 ```
 
 ## Languages and Tools
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) ![React](https://camo.githubusercontent.com/44059541e82482d15a51d37935c0fb6b684a9b00226739491be20bbc72c3f59d/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667) ![RasberryPi](https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg) ![Visual Studio Code](https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg)
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.ruby-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain-wordmark.svg" alt="ruby" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+<a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
+</p>
+## **GitHub Statistics**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmdcarneiro&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmdcarneiro&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+![pv](https://pageview.vercel.app/?github_user=rafaelmdcarneiro)
+
+#### Social Networks
 
 [linkedin](https://www.linkedin.com "linkedin")
