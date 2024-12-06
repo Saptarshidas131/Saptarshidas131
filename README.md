@@ -39,6 +39,10 @@ fn main() {
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
 </p>
 
+![Static Badge](https://img.shields.io/badge/Profession%20-%20Web%20Developer%20-%20Green)
+
 #### Social Networks
 
 [linkedin](https://www.linkedin.com/in/saptarshi-d-333a2216b/ "linkedin")
+
+![Static Badge](https://img.shields.io/badge/Copyuright%20%C2%A9%20-%20Saptarshi%20Das%202024%20-%20orange)
