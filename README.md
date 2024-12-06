@@ -41,4 +41,4 @@ fn main() {
 
 #### Social Networks
 
-[linkedin](https://www.linkedin.com "linkedin")
+[linkedin](https://www.linkedin.com/in/saptarshi-d-333a2216b/ "linkedin")
